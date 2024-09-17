@@ -277,7 +277,8 @@ footer {
     background-color: #fff;
     padding: 24px;
     position: absolute;
-
+    display: flex;
+    flex-direction: column;
     top: 9px;
     right: -200px;
     transition: right 0.2s ease-in;
